@@ -1,0 +1,27 @@
+# Task 2 Notebook
+
+This repository contains the Task 2 notebook.
+
+## How to Open the Notebook in Kaggle
+
+### Step 1: Download the Notebook
+
+1. Click on the green "Code" button on this GitHub page.
+2. Select "Download ZIP" and save the file to your computer.
+3. Unzip the downloaded file to get the `.py` Python file.
+
+### Step 2: Open the Notebook in Kaggle
+
+1. Go to [Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection/).
+2. Log in to your account (or create one if you don't have an account).
+3. Click on "Work" in the top menu.
+4. Select "New Notebook".
+
+
+### Step 3: Set Up the Database (if applicable)
+
+1. Once the notebook is open in Kaggle, you Paste All Code of this File to Python Script.
+2. Click on the play button (►►) run the code.
+3. Make sure all Code run without errors.
+
+### Done!

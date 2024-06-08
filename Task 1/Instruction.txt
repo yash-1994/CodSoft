@@ -1,0 +1,28 @@
+# Task 1 Notebook
+
+This repository contains the Task 1 notebook.
+
+## How to Open the Notebook in Google Colab
+
+### Step 1: Download the Notebook
+
+1. Click on the green "Code" button on this GitHub page.
+2. Select "Download ZIP" and save the file to your computer.
+3. Unzip the downloaded file to get the `.ipynb` notebook file.
+
+### Step 2: Open the Notebook in Google Colab
+
+1. Go to [Google Colab](https://colab.research.google.com/).
+2. Click on "File" in the top-left corner.
+3. Select "Upload notebook".
+4. Click "Choose File" and find the `.ipynb` file you downloaded.
+5. Click "Open" to upload the notebook.
+
+### Step 3: Run the Notebook
+
+1. Once the notebook is open in Google Colab, you will see several code cells.
+2. Click on the play button (►) next to each cell to run the code.
+3. Make sure all cells run without errors.
+
+### Done!
+
